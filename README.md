@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+
 # Subscription Tracker API
 
 A real-world backend API built with FastAPI for managing user subscriptions such as Netflix, Spotify, gym memberships, cloud services, and more.
